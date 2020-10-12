@@ -5,8 +5,6 @@ There are various documents within this project these include the:
 
 - Using CKAN to develop an open data access portal.
 
-/*- Java files `CreateExcel.java`, `DeleteExcel.java`, `UpdateExcel.java`, and `UploadFile.java` which are capable of opening, adding, and deleting the excel sheets which maintain the open data for the website.*/
-
 - The html files which display a sample of the website's pages.
 
 - The initial pdf for phase 1 of the project, the inception report, which outlines the objectives for the project.
